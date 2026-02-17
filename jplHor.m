@@ -41,6 +41,11 @@ R_sun = 696300;                        % Sun Radius (km)
 %r_spacecraft                           % Radius of Spacecraft Orbit Altitude
 %r_mars_vec                            % Distance from Sun to Mars
 
+% Spacecraft Orbit Parameters
+ecc = 0.8; % eccintricity
+inc = 0; % deg
+alt = 20000; % km
+
 
 % ----------------------
 % Main Code
